@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Rebelstar II Web</title>
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+  <main id="app">
+    <header class="topbar">
+      <h1>REBELSTAR II — WEB</h1>
+      <div id="phase"></div>
+    </header>
+    <section class="game-layout">
+      <canvas id="game" width="768" height="576" aria-label="Game board"></canvas>
+      <aside>
+        <div id="unit-info"></div>
+        <div id="message-log"></div>
+        <div class="controls">
+          <button data-action="end-turn">End turn</button>
+          <button data-action="fire-aimed">Aimed</button>
+          <button data-action="fire-snap">Snap</button>
+          <button data-action="opportunity">Opportunity</button>
+        </div>
+        <p class="help">Move: QWE / AD / ZXC · Select: S · Next: N · Info: I · Fire: F · Pickup: P · Drop: M · Change item: O · Reload: L · End turn: 0</p>
+      </aside>
+    </section>
+  </main>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

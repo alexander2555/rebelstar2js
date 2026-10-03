@@ -1,0 +1,5 @@
+This repository contains newly written scaffolding and placeholder data.
+
+Do not assume that original Rebelstar II artwork, sound, maps, ROM/TAP/TZX contents, or other copyrighted assets are licensed for redistribution merely because they are historically archived online.
+
+Keep original/reference assets outside this package unless you have verified permission/licensing for their intended use.

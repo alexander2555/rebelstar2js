@@ -1,0 +1,22 @@
+[
+  {
+    "id": "laser_gun",
+    "name": "Laser Gun",
+    "damage": 4,
+    "accuracy": 60,
+    "aimedAccuracy": 75,
+    "snapAccuracy": 45,
+    "aimedAP": 4,
+    "snapAP": 2,
+    "_sourceStatus": "PLACEHOLDER_VALUES"
+  },
+  {
+    "id": "alien_weapon",
+    "name": "Alien Weapon",
+    "damage": 3,
+    "accuracy": 55,
+    "aimedAP": 4,
+    "snapAP": 2,
+    "_sourceStatus": "PLACEHOLDER_VALUES"
+  }
+]

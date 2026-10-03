@@ -1,0 +1,22 @@
+dist
+node_modules
+package-lock.json
+api
+coverage
+.git
+
+*.min.js
+*.md
+
+# Prettier has no built-in parser for Sass indented / Pug here
+**/*.sass
+**/*.pug
+
+# Assets / binaries
+**/*.fbx
+**/*.ico
+src/icons
+src/img
+src/images
+src/mediaresources
+src/objects

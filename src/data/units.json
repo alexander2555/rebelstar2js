@@ -1,0 +1,15 @@
+{
+  "status": "PLACEHOLDER",
+  "units": [
+    {
+      "id": "R1",
+      "team": "RAIDERS",
+      "type": "RAIDER"
+    },
+    {
+      "id": "A1",
+      "team": "ALIENS",
+      "type": "ALIEN"
+    }
+  ]
+}
